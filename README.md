@@ -1,4 +1,5 @@
-# **TRIVIA API - Documentation and API Reference**
+# **Trivia API**
+`Documentation and API Reference`
 
 ## Trivia App Introduction
 
