@@ -13,3 +13,4 @@ six
 SQLAlchemy
 Werkzeug
 python-dotenv
+pylint
