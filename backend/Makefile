@@ -2,8 +2,9 @@
 # setup && activation
 
 setup:
-	# Create python virtualenv & source it
+	# create python virtualenv & source it
 	# source venv/Scripts/activate ---GitBash
+	# source venv/bin/activate ---GNU/Linux
 	python -m virtualenv venv
 
 install:
